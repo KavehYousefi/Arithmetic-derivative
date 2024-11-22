@@ -3,6 +3,7 @@
 ;; This program implements routines for computing the arithmetic
 ;; derivative.
 ;; 
+;; 
 ;; Concepts
 ;; ========
 ;; The arithmetic derivative constitutes a function defined on the
@@ -11,7 +12,7 @@
 ;; the same.
 ;; 
 ;; == DEFINITION ==
-;; Two perspective may be assumed on the calculation of the arithmetic
+;; Two perspectives may be assumed on the calculation of the arithmetic
 ;; derivative: a derivation from the Leipniz rule and a proceeding from
 ;; prime factorization.
 ;; 
